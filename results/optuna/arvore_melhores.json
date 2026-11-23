@@ -1,0 +1,19 @@
+{
+  "algoritmo": "arvore",
+  "metrica": "balanced_accuracy",
+  "melhor_nota_cv": 0.9468512477915848,
+  "numero_melhor_trial": 96,
+  "melhores_hiperparametros": {
+    "adiciona_indicador_faltante": true,
+    "reducao": "vif",
+    "vif_limiar": 69.09428658576108,
+    "normalizacao": "potencia",
+    "arvore_criterio": "entropy",
+    "arvore_profundidade_maxima": 26,
+    "arvore_min_exemplos_folha": 2,
+    "arvore_ccp_alpha": 0.0023803105080110677
+  },
+  "trials_completos": 100,
+  "semente_aleatoria": 810,
+  "data": "2026-11-22T16:50:48"
+}

@@ -1,0 +1,16 @@
+{
+  "algoritmo": "svm",
+  "metrica": "balanced_accuracy",
+  "melhor_nota_cv": 0.971668548945064,
+  "numero_melhor_trial": 92,
+  "melhores_hiperparametros": {
+    "adiciona_indicador_faltante": true,
+    "reducao": "nenhuma",
+    "normalizacao": "potencia",
+    "svm_c": 9.623340241659916,
+    "svm_gamma": 0.007432780245946039
+  },
+  "trials_completos": 100,
+  "semente_aleatoria": 810,
+  "data": "2026-11-22T19:04:33"
+}

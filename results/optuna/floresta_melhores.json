@@ -1,0 +1,17 @@
+{
+  "algoritmo": "floresta",
+  "metrica": "balanced_accuracy",
+  "melhor_nota_cv": 0.9698633089969876,
+  "numero_melhor_trial": 84,
+  "melhores_hiperparametros": {
+    "adiciona_indicador_faltante": true,
+    "reducao": "nenhuma",
+    "floresta_num_arvores": 158,
+    "floresta_profundidade_maxima": 12,
+    "floresta_min_exemplos_folha": 2,
+    "floresta_fracao_atributos": 0.18054856620229393
+  },
+  "trials_completos": 100,
+  "semente_aleatoria": 810,
+  "data": "2026-11-22T18:31:53"
+}

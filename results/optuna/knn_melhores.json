@@ -1,0 +1,18 @@
+{
+  "algoritmo": "knn",
+  "metrica": "balanced_accuracy",
+  "melhor_nota_cv": 0.9644466022455778,
+  "numero_melhor_trial": 98,
+  "melhores_hiperparametros": {
+    "adiciona_indicador_faltante": false,
+    "reducao": "rfe",
+    "rfe_fracao_mantida": 0.5833403530509289,
+    "normalizacao": "potencia",
+    "knn_num_vizinhos": 7,
+    "knn_pesos": "uniform",
+    "knn_p": 1
+  },
+  "trials_completos": 100,
+  "semente_aleatoria": 810,
+  "data": "2026-11-22T18:21:29"
+}

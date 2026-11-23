@@ -1,0 +1,20 @@
+{
+  "algoritmo": "gradient_boosting",
+  "metrica": "balanced_accuracy",
+  "melhor_nota_cv": 0.9784157648440894,
+  "numero_melhor_trial": 61,
+  "melhores_hiperparametros": {
+    "adiciona_indicador_faltante": false,
+    "reducao": "vif",
+    "vif_limiar": 22.570062606676494,
+    "normalizacao": "robusto",
+    "gb_taxa_aprendizado": 0.2487946230743026,
+    "gb_num_iteracoes": 347,
+    "gb_max_folhas": 11,
+    "gb_min_exemplos_folha": 24,
+    "gb_l2": 0.003202433762270592
+  },
+  "trials_completos": 100,
+  "semente_aleatoria": 810,
+  "data": "2026-11-22T18:46:26"
+}
